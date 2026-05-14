@@ -1,4 +1,4 @@
-# 
+# custom Automation Script for momentum trading bot | risk-parity + backtesting-framework offers the most advanced momentum trading bot, with risk-parity and backtesting-framework.
 
 
 
